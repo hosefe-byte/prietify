@@ -424,7 +424,7 @@
   },
   "ra": {
     "auth": {
-      "welcome1": "Thanks for installing Navidrome!",
+      "welcome1": "Thanks for installing Prietify!",
       "welcome2": "To start, create an admin user",
       "confirmPassword": "Confirm Password",
       "buttonCreateAdmin": "Create Admin",
@@ -731,7 +731,7 @@
     "minutesAgo": "%{smart_count} minute ago |||| %{smart_count} minutes ago"
   },
   "help": {
-    "title": "Navidrome Hotkeys",
+    "title": "Prietify Hotkeys",
     "hotkeys": {
       "show_help": "Show This Help",
       "toggle_menu": "Toggle Menu Side Bar",
